@@ -1,6 +1,6 @@
-## Welcome to GitHub Games
+## Welcome to GitHub Games, Roger Division
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people, but mostly Roger, who are getting started with Git and GitHub.
 
 You can play the game at: https://githubschool.github.io/github-games/
 
